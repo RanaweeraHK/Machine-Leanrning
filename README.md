@@ -1,4 +1,4 @@
-![Uploading pikaso_texttoimage_Machine-Learning.jpeg…]()
+![pikaso_texttoimage_Machine-Learning (1)](https://github.com/RanaweeraHK/Machine-Leanrning/assets/129282753/ebeb6799-44c5-4223-87e7-24f9b2a9ed03)
 
 # Machine Learning Key Concepts
 
